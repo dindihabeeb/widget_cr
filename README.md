@@ -1,12 +1,13 @@
-# widget_cr — ClipRect & ClipRRect Demo
+# Widget Presentation — ClipRect & ClipRRect Demo
 
 An interactive Flutter app for exploring Flutter's clipping widgets (`ClipRect` and `ClipRRect`) with live mode and behavior switching.
 
-## Screenshot
+## Screenshots
+![screenshot 1](https://github.com/user-attachments/assets/920442a3-ab33-40ac-be06-b8a12e7b8a22)
+![screenshot 2](https://github.com/user-attachments/assets/ac6996bb-7545-40d1-9444-8fdd6eb78b8e)
+![screenshot 3](https://github.com/user-attachments/assets/370d8d69-88e4-4f04-b1e9-b97463cc074f)
+![screenshot 4](https://github.com/user-attachments/assets/370d8d69-88e4-4f04-b1e9-b97463cc074f)
 
-![ClipRect & ClipRRect Demo](screenshot.png)
-
-> Add a screenshot by running the app, taking a capture, and saving it as `screenshot.png` in the project root.
 
 ## Features
 
